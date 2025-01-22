@@ -1,2 +1,2 @@
 # QR_Generator
-Auther - Jiya Patel
+Author - Jiya Patel
